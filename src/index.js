@@ -14,9 +14,10 @@ app.use(express.json());
 
 
 //routes
-app.use(require('./routes/index.js'));
+app.use(require('./routes/index'));
+app.use('/api/hoteles', require('./routes/hoteles'));
 
 //inicio de servidor
 app.listen(app.get('port'), () => {
-    console.log(`server on port ${3000}`);
+    console.log(`server on port ${app.get('port')}`);
 });

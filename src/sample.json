@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "JW Marriott Hotel Bogota",
+        "ciudad": "Calle 73 n.º 8-60 Bogotá, Colombia",
+        "telefono": "+57 6014816000",
+        "opiniones": "Execelente"
+    },
+    {
+        "id": 2,
+        "nombre": "Four Seasons Hotel Bogota",
+        "ciudad": "Carrera 13 No 85-46, Bogotá, Colombia",
+        "telefono": "+57 601 325 7900",
+        "opiniones": "Execelente"
+    }
+
+]
