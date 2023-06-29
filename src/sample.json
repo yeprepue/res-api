@@ -4,14 +4,29 @@
         "nombre": "JW Marriott Hotel Bogota",
         "ciudad": "Calle 73 n.º 8-60 Bogotá, Colombia",
         "telefono": "+57 6014816000",
-        "opiniones": "Execelente"
+        "opiniones": "Execelente",
+        "imagen": "MarriotH.jpg",
+        "url": "https://jwmarriott.hotels-bogota.com/es/"
     },
     {
         "id": 2,
-        "nombre": "Four Seasons Hotel Bogota",
+        "nombre": "Four Seasons Hotel Bogota ",
         "ciudad": "Carrera 13 No 85-46, Bogotá, Colombia",
         "telefono": "+57 601 325 7900",
-        "opiniones": "Execelente"
+        "opiniones": "Execelente",
+        "imagen": "imgGraHya.jpeg",
+        "url": "https://fourseasons.hotels-bogota.com/es/"
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Isla  Pelicano Seasons Cartagena",
+        "ciudad": "cartagena, Colombia",
+        "telefono": "+57 608 325 500",
+        "opiniones": "Execelente",
+        "imagen": "IslaPelicanoH.jpeg",
+        "url": "https://islapelicano.com.co/service/la-isla/"
+        
     }
 
 ]
