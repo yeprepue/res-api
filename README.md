@@ -32,9 +32,9 @@ Se agregará una Api-res de un listado y filtrado de hoteles construida con NODE
 
 
 # para usar el end-point PUT se enviará el array con los datos de un hotel mencionando en el paso anterior a http://localhost:3000/api/hoteles/3 tener en cuenta que el "/3" hace referencia al "id" de un hotel. 
-
-![image](https://github.com/yeprepue/res-api/assets/43614257/1e598d6e-792e-4d8a-b6f0-ab400e33f6f7)
 ![image](https://github.com/yeprepue/res-api/assets/43614257/609c8578-1284-45fa-83a1-fe4dc8d02bab)
+![image](https://github.com/yeprepue/res-api/assets/43614257/1e598d6e-792e-4d8a-b6f0-ab400e33f6f7)
+
 
 # para usar el end-point DELETE se enviará http://localhost:3000/api/hoteles/4, tener en cuenta que "/4" es el "id" del hotel que se quiere borrar.
 
