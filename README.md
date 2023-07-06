@@ -1,6 +1,6 @@
 # Res-Api
 
-Se agregará una Api-res de un listado y filtrado de hoteles construida con NODE usando las librerías de MOGAN y ESPRESs. 
+Se agregará una Api-res de un listado y filtrado de hoteles construida con NODE usando las librerías de MOGAN y Express. 
 
 # Para iniciar el proyecto es necesario descargar el repositorio de https://github.com/yeprepue/res-api.git
 
