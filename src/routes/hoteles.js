@@ -8,7 +8,7 @@ const router = express.Router();
 router.get("/", (req, res) => {
     res.json(hoteles);
 });
-//get id
+//get id filtro
 router.get("/:filtro", (req, res) => {
     const { filtro } = req.params;
     const filteredData = hoteles.filter((item) => {
@@ -25,6 +25,17 @@ router.get("/:filtro", (req, res) => {
     });
     res.json(filteredData)
 });
+
+router.get("/getbyId/:id", (req, res) => {
+    const { id } = req.params;
+    const filterId = hoteles.filter((item) => {
+        return item.id == id 
+            
+            
+    });
+    res.json(filterId)
+});
+
 
 router.post("/", (req, res) => {
     const id = hoteles.length + 1;
